@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Página</title>
+</head>
+<body>
+    <script>
+        // Solicitar el nombre al usuario al cargar la página
+        let nombre = prompt("Dime cuál es tu nombre:");
+        
+        // Mostrar un saludo usando alert()
+        alert("¡Hola " + nombre + "!");
+    </script>
+</body>
+</html>
